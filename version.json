@@ -1,14 +1,12 @@
 {
-    "version":  "1.70.0",
+    "version":  "1.71.0",
     "notes":  [
-                  "Canvas: 37 brushes rebuilt to behave like the real thing: pencils, charcoal, pens, markers, airbrushes, paints and washes",
-                  "Paper: every canvas has one (Smooth, Drawing, Watercolour, Rough, Canvas). Pencil and charcoal catch its tooth; washes settle into it (Edit \u003e Paper)",
-                  "Pen: lean it to shade with the side of a pencil; a stroke starts from nothing instead of a blob; Looks \u003e Pen sets how hard you press, in every mode",
-                  "Paint picks up what is on the canvas and mixes like pigment (blue through yellow goes green), and leaves brush marks",
-                  "They look and answer like the real thing without its chores: nothing runs out, nothing needs dipping",
-                  "Airbrushes spray for as long as they are held; markers darken where strokes cross; washes dry with a darker edge"
+                  "Canvas: adjustment layers. Curves, levels, hue / saturation, colour balance, black \u0026 white, gradient map and brightness / contrast change what is under them without touching it (the half-circle button under the layer list)",
+                  "Develop: a photo\u0027s exposure, highlights, shadows, warmth, clarity, sharpening, noise, vignette and grain in one panel, with Auto",
+                  "An adjustment can be clipped to one layer, faded, masked with the brush or eraser, changed at any time, or merged down to keep it",
+                  "Lithophane: Light and detail fixes a dim or flat photo before it becomes a print, with Auto"
               ],
-    "page":  "https://github.com/marknmyu6-cell/swatchbook-updates/releases/tag/v1.70.0",
-    "zip":  "https://github.com/marknmyu6-cell/swatchbook-updates/releases/download/v1.70.0/SwatchBook-1.70.0.zip",
-    "sha256":  "8f1b7c62f4ba08ff6eb6cc3fd1065900a507d11e700873d07e8e7300ccb054d4"
+    "page":  "https://github.com/marknmyu6-cell/swatchbook-updates/releases/tag/v1.71.0",
+    "zip":  "https://github.com/marknmyu6-cell/swatchbook-updates/releases/download/v1.71.0/SwatchBook-1.71.0.zip",
+    "sha256":  "f6da7f5343deee75519e2c9fbce736ad21e8efbc368cc79149d235f4512488fb"
 }
