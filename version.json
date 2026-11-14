@@ -1,10 +1,11 @@
 {
-    "version":  "1.74.0",
+    "version":  "1.75.0",
     "notes":  [
-                  "Pose: play a motion file (.bvh) on the figure (Motionâ€¦ beside Save pose). Play it, drag through it, step a frame at a time, and keep any moment as the pose: mid-stride, the top of a leap",
-                  "It takes motion capture files and motions made by generators such as NVIDIA Kimodo, whichever way they face; the file\u0027s skeleton is fitted to the figure by its joints\u0027 names"
+                  "Canvas: shapes and a pen (P). Rectangle, ellipse, line, polygon, star, or your own outline from points and curves, each with a fill and a line",
+                  "Shapes stay shapes: Edit moves them, their points and their curves later, and Transform or a canvas resize keeps their edges crisp",
+                  "They live on a shape layer of their own, which takes blend, opacity, masks and effects like any layer; Turn into pixels makes it paintable"
               ],
-    "page":  "https://github.com/marknmyu6-cell/swatchbook-updates/releases/tag/v1.74.0",
-    "zip":  "https://github.com/marknmyu6-cell/swatchbook-updates/releases/download/v1.74.0/SwatchBook-1.74.0.zip",
-    "sha256":  "46a0a6d87c63c4d06b424aa5176eaaae27f7e4e51ff1d866ebb5b533f8321538"
+    "page":  "https://github.com/marknmyu6-cell/swatchbook-updates/releases/tag/v1.75.0",
+    "zip":  "https://github.com/marknmyu6-cell/swatchbook-updates/releases/download/v1.75.0/SwatchBook-1.75.0.zip",
+    "sha256":  "15c8a4b909da41e87cf0a3477fcd11b3cc63cce5e00927d1c0dbab2df1c38ed0"
 }
