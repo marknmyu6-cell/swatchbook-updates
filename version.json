@@ -1,12 +1,12 @@
 {
-    "version":  "1.72.0",
+    "version":  "1.73.0",
     "notes":  [
-                  "Setups (Looks \u003e Setup): keep how everything is set under a name (looks, shortcuts, the pen, tool settings, favourite brushes) and switch back and forth; they travel in the settings file",
-                  "Pen button (Looks): choose what the button on the side of the pen does in Canvas: the menu, the brush ring, pick a colour, erase, undo, or move the canvas",
-                  "Favourite brushes: drag them into your own order in the brush library",
-                  "A new canvas starts with the size, colour and paper of the last one you made"
+                  "Canvas: layer effects (the fx button under the layer list). An outline, a shadow, a glow and a bevel that follow whatever is drawn on the layer, and can be changed or cleared any time",
+                  "An outline is as wide round a thin pen line as round a filled shape, with round corners: for stickers, lettering and line art",
+                  "Canvas: Retouch (J). Clone copies from a place you set (Alt+click); Heal does the same but keeps the light of where it lands; Lighten and Darken work the middle tones",
+                  "Clone and Heal can copy from everything shown onto an empty layer, so the photo underneath is never touched"
               ],
-    "page":  "https://github.com/marknmyu6-cell/swatchbook-updates/releases/tag/v1.72.0",
-    "zip":  "https://github.com/marknmyu6-cell/swatchbook-updates/releases/download/v1.72.0/SwatchBook-1.72.0.zip",
-    "sha256":  "14948d79ba7afe0951a34c409cd270e9fec99b71681af2e8d885b8a50f97faab"
+    "page":  "https://github.com/marknmyu6-cell/swatchbook-updates/releases/tag/v1.73.0",
+    "zip":  "https://github.com/marknmyu6-cell/swatchbook-updates/releases/download/v1.73.0/SwatchBook-1.73.0.zip",
+    "sha256":  "b200a28b655c9ba5e4c5ccc7bb8f56d71deff975a4b448788b66dc00de1f3b65"
 }
