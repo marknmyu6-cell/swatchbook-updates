@@ -1,12 +1,12 @@
 {
-    "version":  "1.71.0",
+    "version":  "1.72.0",
     "notes":  [
-                  "Canvas: adjustment layers. Curves, levels, hue / saturation, colour balance, black \u0026 white, gradient map and brightness / contrast change what is under them without touching it (the half-circle button under the layer list)",
-                  "Develop: a photo\u0027s exposure, highlights, shadows, warmth, clarity, sharpening, noise, vignette and grain in one panel, with Auto",
-                  "An adjustment can be clipped to one layer, faded, masked with the brush or eraser, changed at any time, or merged down to keep it",
-                  "Lithophane: Light and detail fixes a dim or flat photo before it becomes a print, with Auto"
+                  "Setups (Looks \u003e Setup): keep how everything is set under a name (looks, shortcuts, the pen, tool settings, favourite brushes) and switch back and forth; they travel in the settings file",
+                  "Pen button (Looks): choose what the button on the side of the pen does in Canvas: the menu, the brush ring, pick a colour, erase, undo, or move the canvas",
+                  "Favourite brushes: drag them into your own order in the brush library",
+                  "A new canvas starts with the size, colour and paper of the last one you made"
               ],
-    "page":  "https://github.com/marknmyu6-cell/swatchbook-updates/releases/tag/v1.71.0",
-    "zip":  "https://github.com/marknmyu6-cell/swatchbook-updates/releases/download/v1.71.0/SwatchBook-1.71.0.zip",
-    "sha256":  "f6da7f5343deee75519e2c9fbce736ad21e8efbc368cc79149d235f4512488fb"
+    "page":  "https://github.com/marknmyu6-cell/swatchbook-updates/releases/tag/v1.72.0",
+    "zip":  "https://github.com/marknmyu6-cell/swatchbook-updates/releases/download/v1.72.0/SwatchBook-1.72.0.zip",
+    "sha256":  "14948d79ba7afe0951a34c409cd270e9fec99b71681af2e8d885b8a50f97faab"
 }
