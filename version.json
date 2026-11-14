@@ -1,0 +1,12 @@
+{
+    "version":  "1.69.0",
+    "notes":  [
+                  "Updates come by themselves: SwatchBook looks once a day, downloads the new version and checks it before installing",
+                  "Sculpt: a Detail brush (D): paint where the surface is too coarse and it is split finer when you lift the pen",
+                  "Brushes from Procreate: sizes, spacing and strokes that turn with the pen now match real brush files",
+                  "Light theme: the panels in Model, Pose and Slice are light too"
+              ],
+    "page":  "https://github.com/marknmyu6-cell/swatchbook-updates/releases/tag/v1.69.0",
+    "zip":  "https://github.com/marknmyu6-cell/swatchbook-updates/releases/download/v1.69.0/SwatchBook-1.69.0.zip",
+    "sha256":  "81ea5d298d0a00b6ab84747026bf8b99d8c6f118410fddce0255fb067a128cca"
+}
