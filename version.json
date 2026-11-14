@@ -1,12 +1,10 @@
 {
-    "version":  "1.73.0",
+    "version":  "1.74.0",
     "notes":  [
-                  "Canvas: layer effects (the fx button under the layer list). An outline, a shadow, a glow and a bevel that follow whatever is drawn on the layer, and can be changed or cleared any time",
-                  "An outline is as wide round a thin pen line as round a filled shape, with round corners: for stickers, lettering and line art",
-                  "Canvas: Retouch (J). Clone copies from a place you set (Alt+click); Heal does the same but keeps the light of where it lands; Lighten and Darken work the middle tones",
-                  "Clone and Heal can copy from everything shown onto an empty layer, so the photo underneath is never touched"
+                  "Pose: play a motion file (.bvh) on the figure (Motionâ€¦ beside Save pose). Play it, drag through it, step a frame at a time, and keep any moment as the pose: mid-stride, the top of a leap",
+                  "It takes motion capture files and motions made by generators such as NVIDIA Kimodo, whichever way they face; the file\u0027s skeleton is fitted to the figure by its joints\u0027 names"
               ],
-    "page":  "https://github.com/marknmyu6-cell/swatchbook-updates/releases/tag/v1.73.0",
-    "zip":  "https://github.com/marknmyu6-cell/swatchbook-updates/releases/download/v1.73.0/SwatchBook-1.73.0.zip",
-    "sha256":  "b200a28b655c9ba5e4c5ccc7bb8f56d71deff975a4b448788b66dc00de1f3b65"
+    "page":  "https://github.com/marknmyu6-cell/swatchbook-updates/releases/tag/v1.74.0",
+    "zip":  "https://github.com/marknmyu6-cell/swatchbook-updates/releases/download/v1.74.0/SwatchBook-1.74.0.zip",
+    "sha256":  "46a0a6d87c63c4d06b424aa5176eaaae27f7e4e51ff1d866ebb5b533f8321538"
 }
