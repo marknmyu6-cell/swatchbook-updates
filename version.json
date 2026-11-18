@@ -1,6 +1,7 @@
 {
-    "version":  "1.76.0",
+    "version":  "1.76.1",
     "notes":  [
+                  "Render: the lights are in the picture as bulbs round the model. Drag one and it follows the pointer round the model, like turning the camera; the wheel over it makes it bigger or smaller (softer or harder shadows), Alt+wheel stronger or weaker. L hides them; they are never in what you save",
                   "Render (F12 in Model and Pose, or the Render button): the model as a photo, with soft shadows, light from the whole sky and reflections of a studio",
                   "Materials named for filaments: matte, PLA, silk, PETG, metal, marble, wood, sparkle, glow in the dark, resin; print lines as the printer would leave them",
                   "Six lighting set-ups (studio, product, warm, daylight, dramatic, night), then every light your own: drag it on the light map, its strength, size, warmth or any colour, up to four; Alt+click the model to put a light\u0027s shine on that spot",
@@ -8,7 +9,7 @@
                   "Depth of field (click where it should be sharp), any lens; save a picture up to 4K, or a turntable video (WebM) or GIF",
                   "Model: seven more modifiers. Bevel rounds every sharp edge, Smooth evens bumps without shrinking, Displace roughens a surface with a pattern, Decimate keeps the shape with fewer triangles, Remesh rebuilds a broken or overlapping model as one closed solid, Weld joins loose points, Wireframe turns edges into printable struts"
               ],
-    "page":  "https://github.com/marknmyu6-cell/swatchbook-updates/releases/tag/v1.76.0",
-    "zip":  "https://github.com/marknmyu6-cell/swatchbook-updates/releases/download/v1.76.0/SwatchBook-1.76.0.zip",
-    "sha256":  "b041f77628be2bfbf79f453ad13081ce7eab925e6524be3000952a897542def5"
+    "page":  "https://github.com/marknmyu6-cell/swatchbook-updates/releases/tag/v1.76.1",
+    "zip":  "https://github.com/marknmyu6-cell/swatchbook-updates/releases/download/v1.76.1/SwatchBook-1.76.1.zip",
+    "sha256":  "0411b0da7a6fe7206e0a99ab45522e56c24d9bfaee13c5cd2574ffd2ba4e29fe"
 }
