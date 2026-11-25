@@ -1,16 +1,13 @@
 {
-    "version":  "1.78.0",
+    "version":  "1.79.0",
     "notes":  [
-                  "Model: exact parts, as in Fusion or FreeCAD (OpenCascade): a sketch\u0027s solid has true circles and curves; its History adds Fillet and Chamfer on edges you click and Shell (hollow it, open at faces you click); they follow when the sketch changes",
-                  "Model: Export STEP: the exact parts, for Fusion, SolidWorks, Onshape, FreeCAD or a machine shop",
-                  "Model: a STEP file imported (Ctrl+I) stays exact: fillet, shell or pattern it, and send it back out as STEP",
-                  "Model: Joints (Rigid, Hinge, Slider) hold one part to another: drive them with a slider or Play, and the part moves with what it\u0027s held to; Check collisions finds parts that overlap",
-                  "Model: Technical drawing (Send menu): front, top and side views (first or third angle) with hidden edges, sizes, an isometric view and a title block, on A4 or A3; saved as a PDF to print and an SVG",
-                  "Sketch: Coincident, Concentric and Tangent between shapes (circles too: click a centre or a rim); Sizes shows every edge\u0027s length and each circle\u0027s diameter",
-                  "Model: Loft between sketches, Sweep along a path, Spring or coil round a helix (Add › CAD); Pattern, Round pattern and Mirror in an exact part\u0027s Features",
-                  "Model: Parameters: named sizes (wall = 2) any History box can use, or a sum of them (wall * 5); change one and every part that uses it is made again"
+                  "Pose: Animate: keyframes on a timeline, as in Blender: pose, move on, pose again; it eases in between, a planted foot stays planted, and clothes and hair follow as it plays (Auto key, drag keys along, save as a video)",
+                  "Pose: a motion file can become keys (To keys), to change any moment of it",
+                  "Pose: clothes sewn from patterns, as real ones are made: a T-shirt, shorts, trousers, a skirt or a dress cut to the figure\u0027s measurements, laid round it flat and sewn shut; the pattern beside the 3D view, sewn again as you change it; elastic waistbands, piping, a woven look",
+                  "Pose: ready-made clothes hold to the skin as the figure moves (shorts and shirts sitting down); buttons and flies stay on the cloth",
+                  "Model: the header stays on one row; the colours fold into one swatch when there isn\u0027t room"
               ],
-    "page":  "https://github.com/marknmyu6-cell/swatchbook-updates/releases/tag/v1.78.0",
-    "zip":  "https://github.com/marknmyu6-cell/swatchbook-updates/releases/download/v1.78.0/SwatchBook-1.78.0.zip",
-    "sha256":  "d7a8a0f192c4e6eec8fb2b00254a40ec67028f45e879cd67e0d3833ebfc87b08"
+    "page":  "https://github.com/marknmyu6-cell/swatchbook-updates/releases/tag/v1.79.0",
+    "zip":  "https://github.com/marknmyu6-cell/swatchbook-updates/releases/download/v1.79.0/SwatchBook-1.79.0.zip",
+    "sha256":  "027aa0ac577207eed7831ef6acdfcc4980dc0add46f39dea7c824112932ec6cf"
 }
