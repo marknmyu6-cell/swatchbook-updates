@@ -1,22 +1,12 @@
 {
-    "version":  "1.80.0",
+    "version":  "1.80.1",
     "notes":  [
-                  "Safety copies in every mode: Model, Canvas and Pose keep unsaved work every minute (sculpting now too) and offer it back after a crash; New and Open ask \"Save first?\"; closing the window lists anything unsaved or still running",
-                  "Arrange: several plates: tabs along the top, models that don\u0027t fit go onto the next plate, drag a model to another plate; saved as a Bambu project with every plate. Rough grams and time on each plate, before slicing",
-                  "Slice: colour the preview by speed, flow, fan, layer time, line width or temperature; show travel moves and retractions; play a layer move by move. New settings: raft, skirt, z-hop, cooling, bridge flow, wall order, avoid crossing walls, thin walls",
-                  "Slice: \"Where the filament goes\": click a part of the print to light it up and see what a change would save (infill 10% instead of 15%: grams and minutes), without slicing again",
-                  "Canvas: export JPEG, WebP and PDF; feather, grow, shrink, smooth, border and select by colour; flip, skew, distort, perspective and warp; a reference window that never ends up in the picture; saved palettes (from a picture, a layer or your filaments; .gpl and .ase), and recolour a drawing to one",
-                  "Model: smooth shading, wireframe and X-ray (Z, Alt+Z); hide, reveal and isolate (H, Alt+H, Shift+H, Numpad /); Dissolve, Separate (P), Set origin, Merge by distance, Subdivide selection; sketch arcs, ellipses, slots, splines, lines, Trim and Offset",
-                  "Model: Will it print: overhangs, thin walls and parts off the plate tinted on the model, with a list that takes you to each. Holes for parts: screws, inserts, nut traps, bearings, magnets, batteries, dowels, cut with the clearance from your fit test",
-                  "Sculpt: symmetry on Z and radial (2 to 32 copies); Transform (M) moves, turns or scales the masked part with a soft edge; Show problems while you sculpt",
-                  "Supports: what the support paint adds (grams and minutes) as you paint; More settings: top gap, spacing, contact layers, pattern, tree branches",
-                  "Pose: props picked and dragged in the view, your own models as props; a prop held in a hand closes the fingers round it and follows the arm and the keys; eyes that look at a target you drag",
-                  "Pose: export the figure as GLB or OBJ, the animation as GLB; prints on clothes (stripes, checks, dots, plaid or a picture); patterns at full size as SVG or PDF on A4/Letter, with seam allowance, notches and grain lines",
-                  "Printer: AMS load and unload, edit a slot, skip objects during a print, temperatures, home, jog and fans (not yet tried on a real printer); Use it up: what you can print with what\u0027s left on a spool",
-                  "Fixes: a failed or stopped Shape change leaves the editor working; Stop for Shape changes; resin Cancel really stops; Spoolman grams are only counted once Spoolman says so; Save pose says when there\u0027s no room; Paste in Canvas uses what you copied last; Ctrl+Z during a Model move; quick mode switches land where you asked",
-                  "Pose: clothes under the arms sit right (set-in sleeves, seams held shut), and snug tops no longer show the chest through"
+                  "Unsaved work kept after a crash: the \"Restore\" bar now shows in Canvas, Model, Pose and Slice (it was hidden behind them)",
+                  "Sending to a resin printer can no longer freeze when the printer doesn\u0027t answer as the connection closes",
+                  "Slice preview: a print too big to show says so, and to open it in Bambu Studio",
+                  "Pose: seated trousers no longer push through themselves between the legs"
               ],
-    "page":  "https://github.com/marknmyu6-cell/swatchbook-updates/releases/tag/v1.80.0",
-    "zip":  "https://github.com/marknmyu6-cell/swatchbook-updates/releases/download/v1.80.0/SwatchBook-1.80.0.zip",
-    "sha256":  "c3ca4db28a6b75b8e79a9fc32ea98de80b9321bd7fc14f7ecbc2e6dfba51c999"
+    "page":  "https://github.com/marknmyu6-cell/swatchbook-updates/releases/tag/v1.80.1",
+    "zip":  "https://github.com/marknmyu6-cell/swatchbook-updates/releases/download/v1.80.1/SwatchBook-1.80.1.zip",
+    "sha256":  "1ade9c7544ca585686632781fa8f23008cb5b229dcc2619be79af432f7a38504"
 }
